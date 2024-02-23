@@ -1,0 +1,11 @@
+123456;Water;Apparel;20.0;50;Supplier W;1;5.0;None
+111333;Shirt;Apparel;30.0;150;Supplier A;0;None;None
+654321;Widget;Electronics;50.0;100;Supplier X;1;20.0;2023-11-9
+888444;HeadphonesI;Electronics;40.0;75;Supplier F;0;None;None
+445566;ElectWatch;Electronics;150.0;50;Supplier W;0;0.0;None
+145236;Gadget;Gadgets;120.0;50;Supplier Y;0;None;None
+362514;Tool;Tools;25.0;200;Supplier Z;1;None;None
+333111;Watch;Accessories;80.0;76;Supplier B;1;None;None
+111555;Book;Books;15.0;300;Supplier C;0;None;None
+555111;Toy;Toys;10.0;498;Supplier D;1;None;None
+444888;Chair;Furniture;75.0;18;Supplier E;1;None;None
